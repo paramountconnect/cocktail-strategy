@@ -10,7 +10,7 @@ Cocktail,All Australian Margarita,Tequila,Coupe or Tumbler,https://assets.cdn.th
 ,,,,,,,,,Real Blue Agave Nectar,10,500,17.3,0.35,0.38,24,1.59%,98.41%
 ,,,,,,,,,,115,8900,236.84,2.11,2.32,24,9.67%,90.33%
 Cocktail,Southside,Gin,Coupe glass,https://www.datocms-assets.com/99116/1745477574-signature-dry-gin.jpg?crop=focalpoint&dpr=0.75&fit=crop&fm=webp&fp-x=0.49&fp-y=0.57&h=1452&w=2580,ARCHIE ROSE _,Shaken,"The Southside is a modern classic. With its crisp, refreshing finish and broad appeal, it caters perfectly to today' s consumer demand for clean, herbaceous, and lower-sugar cocktails. Ideal for summer menus and outdoor occasions. The Southside offers a premium yet approachable option that elevates any cocktail list and encourages repeat orders.",Add all ingredients to a cocktail shaker_;Fill with ice & shake_;Double strain into chilled Coupe glass_,Archie Rose Signature Dry,60,700,56.37,4.83,5.31,24,22.15%,77.85%
-,,,,,,,,,Finest Call Lime Juice,30,1000,14.48,1.5,1.65,24,0.06875,93%
+,,,,,,,,,Finest Call Lime Juice,30,1000,14.48,1.50,1.65,24.00,6.88%,93.13%
 ,,,,,,,,,Sugar Syrup,30,1000,1,0.3,0.33,24,1.38%,98.63%
 ,,,,,,,,,Mint Leaves,6,,0.3,0.3,0.33,24,1.38%,98.63%
 ,,,,,,,,,,126,4200,59.17,6.93,7.62,24,31.77%,68.23%
@@ -25,13 +25,13 @@ Cocktail,Vodka Martini,Vodka,Martini glass,https://www.greygoose.com/binaries/co
 ,,,,,,,,,,70,1950,98.7,5.33,5.87,24,24.44%,75.56%
 Cocktail,Cosmopolitan,Vodka,Coupe glass,https://cellarpress.vintagecellars.com.au/wp-content/uploads/2022/12/VC-PC6-ArticleImages-Maker-Grainshaker-Hero-1000x600-1.jpg,ARCHIE ROSE,Shaken,"A vibrant blend of tangy cranberry, zesty lime, and the smooth warmth of vodka, rounded by a hint of orange liqueur. Each sip is bright and playful, with a refreshing, slightly tart finish that feels effortlessly chic.",Add all ingredients to a cocktail shaker; Fill with ice & shake; Double strain into chilled coupe glass; Garnish with flamed orange zest,Archie Rose True Cut Vodka,45,700,41.08,2.64,2.9,24,12.10%,87.90%
 ,,,,,,,,,Steinbok Triple Sec,30,700,26.66,1.14,1.26,24,5.24%,94.76%
-,,,,,,,,,Finest Call Lime Juice,15,1000,14.48,1,1.1,24,0.045833333,0.954166667
+,,,,,,,,,Finest Call Lime Juice,15,1000,14.48,1.00,1.10,24.00,4.58%,95.42%
 ,,,,,,,,,Cranberry Juice,15,1500,3.5,0.04,0.04,24,0.16%,99.84%
 ,,,,,,,,,,105,2930,72.74,4.82,5.3,24,22.08%,77.92%
 Cocktail,Aviation,Gin,Coupe glass,https://www.foodandwine.com/thmb/WEZOrxxguMTmebTsjpm2BjrZecI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/aviation-4000x2667-recirc-7da8057f9c5e4cb8ad986fdc9cd31279.jpg,ARCHIE ROSE,Shaken,"The Aviation offers a unique blend of botanical gin, maraschino liqueur, lemon, and a hint of creme de Violette. Its floral notes, balanced acidity, and striking colour make it a standout serve. Perfect for venues looking to elevate their menu with a refined, premium cocktail that sparks interest and drives discovery.",Add all ingredients to a cocktail shaker; Fill with ice and shake; Double strain into chilled Coupe glass; Garnish with lemon zest or maraschino cherry,Archie Rose Signature Dry,45,700,56.37,3.62,3.99,24,16.61%,83.39%
 ,,,,,,,,,Luxardo Maraschino,15,700,55.58,1.19,1.31,24,5.46%,94.54%
 ,,,,,,,,,Crème de Violette,7.5,500,36.4,0.55,0.6,24,2.50%,97.50%
-,,,,,,,,,Lemon Juice,15,30,1.5,1,1.1,24,4.58%,95.42%
+,,,,,,,,,Finest Call Lemon Juice,15,1000,14.48,1.00,1.10,24.00,4.58%,95.42%
 ,,,,,,,,,Sugar Syrup,5,1000,1,0.1,0.11,24,0.46%,99.54%
 ,,,,,,,,,,87.5,2930,150.85,6.46,7.11,24,29.61%,70.39%
 Cocktail,Mando Spritz,Liqueur,Wine glass,https://www.broadsheet.com.au/_next/image?url=https://cdn.broadsheet.com.au/cache/62/ec/62ec0de06af40715907e0c485c78c005.jpg&w=1280&q=100,UNICO,Stirred,"Bright, zesty, and effortlessly refreshing, the Mando Spritz combines sweet mandarin, crisp bubbles, and a touch of herbal bitterness. It' s a vibrant, lower-ABV serve that taps into spritz and citrus trends. Perfect for daytime occasions, outdoor menus, and consumers seeking lighter, uplifting options.",Add all ingredients to glass; Fill with ice & stir; Garnish,Unico Mando,45,500,26.41,2.38,2.61,18,14.53%,85.47%
@@ -45,7 +45,7 @@ Cocktail,Espresso Martini,Vodka,Coupe glass,https://www.applewooddistillery.com.
 ,,,,,,,,,,120,2245,73.49,6.38,7.01,24,29.22%,70.78%
 Cocktail,White Lady,Gin,Coupe glass,https://www.liquor.com/thmb/zL_-CQt3XoDsgpYYyNZzhmB8rE8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/white-lady-1200x628-email-4cb621e4763344fd85f04b5f9a421a5e.jpg,ARCHIE ROSE,Shaken,"Smooth and citrus-forward blend of gin, fresh lemon juice, and a touch of orange liqueur. Its crisp, bright flavours are balanced by a silky texture, offering a refreshing and sophisticated sip with a clean, tart finish. This timeless cocktail brings balance, sophistication, and broad appeal. Ideal for venues looking to elevate their gin offering with a clean, elegant serve.",Add all ingredients to a cocktail shaker; Shake without ice; Add ice and shake again; Double strain into a chilled Coupe glass; Garnish with a lemon twist,Archie Rose Signature Dry,45,700,56.37,3.62,3.99,24,16.61%,83.39%
 ,,,,,,,,,Steinbok Triple Sec,20,750,26.66,0.71,0.78,24,3.26%,96.74%
-,,,,,,,,,Lemon Juice,20,30,1.5,1.1,1.21,24,5.04%,94.96%
+,,,,,,,,,Finest Call Lemon Juice,20,1000,14.48,1.10,1.21,24.00,5.04%,94.96%
 ,,,,,,,,,Aquafab,15,500,15,2.3,2.53,24,10.54%,89.46%
 ,,,,,,,,,Sugar Syrup,10,1000,3,0.1,0.11,24,0.46%,99.54%
 ,,,,,,,,,,110,2980,102.53,7.83,8.62,24,35.91%,64.09%
@@ -64,7 +64,7 @@ Cocktail,Jam Donut,Liqueur,Shot glass,https://toastmag.co.nz/assets/images/artic
 ,,,,,,,,,,60,1400,61.37,2.63,2.89,10,28.93%,71.07%
 Cocktail,Whiskey Sour,Whiskey,Coupe or Tumbler,https://images.ctfassets.net/miw9xo325qds/3oggwa9Vk6gnkdshEyZn8v/0e404ae26470620fa71a8fc7cbb4fde8/Monkey_Jam_Sour_serve_shot__1_.jpg?w=828,MONKEY SHOULDER/AQUAFAB:,Shaken,"By offering a timeless favorite like the Whiskey Sour, the venue can attract both whiskey enthusiasts and casual drinkers, boosting beverage turnover and enhancing the overall guest experience - ultimately increasing revenue and repeat business.",Add all ingredients to a cocktail shaker; Shake without ice; Add ice and shake again; Double strain into a chilled coupe glass; Garnish with a lemon twist,Monkey Shoulder,45,700,54.92,3.53,3.88,24,16.18%,83.82%
 ,,,,,,,,,Sugar Syrup,10,1000,3,0.03,0.03,24,0.14%,99.86%
-,,,,,,,,,Lemon Juice,30,30,1.5,1.5,1.65,24,6.88%,93.13%
+,,,,,,,,,Finest Call Lemon Juice,30,1000,14.48,0.43,0.48,24,1.99%,98.01%
 ,,,,,,,,,Aquafab,15,500,16,0.48,0.53,24,2.20%,97.80%
 ,,,,,,,,,Angostura Bitters,2,200,15,0.15,0.17,24,0.69%,99.31%
 ,,,,,,,,,,102,2430,90.42,5.69,6.26,24,26%,74%
